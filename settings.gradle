@@ -14,3 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Habits2"
 include ':app'
+include ':Core:Base:BaseCoreLibApi'
+include ':Core:Base:BaseCoreLibImpl'
+include ':Feature:Base:BaseLibApi'
+include ':Feature:Base:BaseLibImpl'
