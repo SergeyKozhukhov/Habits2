@@ -1,4 +1,4 @@
-package ru.personal.development.feature.base.impl.ui.theme
+package ru.personal.development.feature.base.impl.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
